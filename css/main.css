@@ -47,7 +47,7 @@ main {
 }
 
 .write-btn {
-  background-color: var(--button-primary)
+  background-color: var(--button-primary);
   color: white;
   padding: 10px 15px 10px 15px;
   font-size: 15px;
